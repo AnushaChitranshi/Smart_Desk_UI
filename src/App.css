@@ -1,0 +1,32 @@
+/* App.css */
+
+/* Overall styling for the entire app container */
+.Screen {
+  width: "100%";
+  height: "100%";
+  position: "relative";
+  background: #fff 50% / cover no-repeat;
+  justify-content: "center";
+  align-items: "center";
+}
+
+.bg_image {
+  width: 916;
+  height: 578;
+  left: 0;
+  top: 0;
+  position: "absolute";
+  border-radius: 20px;
+  border: 1px solid #000;
+}
+
+.topbar {
+  width: 871.78;
+  height: 71;
+  left: 15;
+  top: 20;
+  position: "absolute";
+  background: #fff;
+  border-radius: 20px;
+  border: 1px solid #000;
+}
